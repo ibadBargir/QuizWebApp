@@ -48,8 +48,4 @@ If you need access to this project or want to use it for collaboration:
 
 All rights are reserved by the respective team members who have contributed to the development of this project.
 
-### Team Members
 
-- @ibadBargir
-- @Saima223
-- @SakshiArvindYadav
